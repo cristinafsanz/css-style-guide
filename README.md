@@ -27,7 +27,7 @@
 
 ### Spacing
 
-- Four spaces for indenting code
+- 2 spaces for indenting code
 - Put spaces after `:` in property declarations
   - E.g. `color: red;` instead of `color:red;`
 - Put spaces before `{` in rule declarations
